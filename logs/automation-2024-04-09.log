@@ -1,0 +1,60 @@
+09:59:36.139 [main] INFO  factory.BaseClass - ***Entering the destination Place***
+09:59:46.251 [main] INFO  factory.BaseClass - ***Navigates to next page***
+09:59:46.298 [main] INFO  factory.BaseClass - ***Selecting the Start and End date***
+10:03:50.796 [main] INFO  factory.BaseClass - ***Opening Travel Insurance Page***
+10:03:51.262 [main] INFO  factory.BaseClass - ***Entering the destination Place***
+10:03:55.564 [main] INFO  factory.BaseClass - ***Navigates to next page***
+10:03:55.624 [main] INFO  factory.BaseClass - ***Selecting the Start and End date***
+10:05:02.233 [main] INFO  factory.BaseClass - ***Opening Travel Insurance Page***
+10:05:02.993 [main] INFO  factory.BaseClass - ***Entering the destination Place***
+10:05:07.301 [main] INFO  factory.BaseClass - ***Navigates to next page***
+10:05:07.340 [main] INFO  factory.BaseClass - ***Selecting the Start and End date***
+10:07:05.077 [main] INFO  factory.BaseClass - ***Opening Travel Insurance Page***
+10:07:05.638 [main] INFO  factory.BaseClass - ***Entering the destination Place***
+10:07:09.560 [main] INFO  factory.BaseClass - ***Navigates to next page***
+10:07:09.602 [main] INFO  factory.BaseClass - ***Selecting the Start and End date***
+10:08:50.819 [main] INFO  factory.BaseClass - ***Opening Travel Insurance Page***
+10:09:09.495 [main] INFO  factory.BaseClass - ***Opening Travel Insurance Page***
+10:09:10.158 [main] INFO  factory.BaseClass - ***Entering the destination Place***
+10:09:14.509 [main] INFO  factory.BaseClass - ***Navigates to next page***
+10:09:14.740 [main] INFO  factory.BaseClass - ***Selecting the Start and End date***
+10:09:16.550 [main] INFO  factory.BaseClass - ***Selecting the no of peoples and age***
+10:09:18.321 [main] INFO  factory.BaseClass - ***Selecting the medical condition***
+10:09:18.885 [main] INFO  factory.BaseClass - ***Entering the mobile number***
+10:09:20.614 [main] INFO  factory.BaseClass - ***Clicking on viewplans***
+10:09:25.701 [main] INFO  factory.BaseClass - ***Printing the three lowest travel insurance plan for students***
+10:10:39.403 [main] INFO  factory.BaseClass - ***Opening Travel Insurance Page***
+10:10:39.887 [main] INFO  factory.BaseClass - ***Entering the destination Place***
+10:10:45.250 [main] INFO  factory.BaseClass - ***Navigates to next page***
+10:10:45.416 [main] INFO  factory.BaseClass - ***Selecting the Start and End date***
+10:12:18.456 [main] INFO  factory.BaseClass - ***Opening Travel Insurance Page***
+10:12:18.786 [main] INFO  factory.BaseClass - ***Entering the destination Place***
+10:12:21.855 [main] INFO  factory.BaseClass - ***Navigates to next page***
+10:12:22.024 [main] INFO  factory.BaseClass - ***Selecting the Start and End date***
+10:12:22.760 [main] INFO  factory.BaseClass - ***Selecting the no of peoples and age***
+10:12:23.578 [main] INFO  factory.BaseClass - ***Selecting the medical condition***
+10:12:23.919 [main] INFO  factory.BaseClass - ***Entering the mobile number***
+10:12:25.056 [main] INFO  factory.BaseClass - ***Clicking on viewplans***
+10:12:26.847 [main] INFO  factory.BaseClass - ***Printing the three lowest travel insurance plan for students***
+17:35:55.878 [main] INFO  factory.BaseClass - ***Opening Travel Insurance Page***
+17:35:56.133 [main] INFO  factory.BaseClass - ***Entering the destination Place***
+17:35:59.120 [main] INFO  factory.BaseClass - ***Navigates to next page***
+17:35:59.330 [main] INFO  factory.BaseClass - ***Selecting the Start and End date***
+17:36:00.073 [main] INFO  factory.BaseClass - ***Selecting the no of peoples and age***
+17:36:00.838 [main] INFO  factory.BaseClass - ***Selecting the medical condition***
+17:36:01.127 [main] INFO  factory.BaseClass - ***Entering the mobile number***
+17:36:30.178 [main] INFO  factory.BaseClass - ***Navigates to CarInsurance Page***
+17:36:42.060 [main] INFO  factory.BaseClass - ***Opening Travel Insurance Page***
+17:36:47.629 [main] INFO  factory.BaseClass - ***Navigates to HomePage***
+17:36:47.630 [main] INFO  factory.BaseClass - ***Hovering to Insurance menu***
+17:36:47.819 [main] INFO  factory.BaseClass - ***Printing the list of Health Insurances***
+17:36:54.942 [main] INFO  factory.BaseClass - ***Navigates to CarInsurance Page***
+17:41:15.158 [main] INFO  factory.BaseClass - ***Opening Travel Insurance Page***
+17:41:15.599 [main] INFO  factory.BaseClass - ***Entering the destination Place***
+17:41:17.949 [main] INFO  factory.BaseClass - ***Navigates to next page***
+17:41:18.074 [main] INFO  factory.BaseClass - ***Selecting the Start and End date***
+17:41:18.818 [main] INFO  factory.BaseClass - ***Selecting the no of peoples and age***
+17:41:19.642 [main] INFO  factory.BaseClass - ***Selecting the medical condition***
+17:41:20.085 [main] INFO  factory.BaseClass - ***Entering the mobile number***
+17:41:25.365 [main] INFO  factory.BaseClass - ***Clicking on viewplans***
+17:41:32.134 [main] INFO  factory.BaseClass - ***Printing the three lowest travel insurance plan for students***

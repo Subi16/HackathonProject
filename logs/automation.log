@@ -1,0 +1,6 @@
+17:08:26.516 [main] INFO  factory.BaseClass - ***Selecting city and rto***
+17:08:26.981 [main] INFO  factory.BaseClass - ***Selecting car brand***
+17:08:27.455 [main] INFO  factory.BaseClass - ***Selecting the car model and fuel type***
+17:08:30.920 [main] INFO  factory.BaseClass - ***Selecting the car variant***
+17:08:31.243 [main] INFO  factory.BaseClass - ***Filling out the details with invalid email_id***
+17:08:32.109 [main] INFO  factory.BaseClass - ***Capturing the error message***
